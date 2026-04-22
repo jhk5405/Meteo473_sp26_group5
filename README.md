@@ -5,7 +5,7 @@ We developed a wildfire threat index using GFS model data...
 
 ## Group Members
 - Jake Kable
-- Nic
+- Nick Pallman
 
 
 ## How to Run
